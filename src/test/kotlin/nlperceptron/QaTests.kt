@@ -13,13 +13,13 @@ class QaTests {
         n.output = andOutput
         n.learn()
         n.test()
-        n.save("out/and.nn")
+        n.save("nlp/and.nn")
     }
 
     @Test
     fun andLoad() {
         val n = Network()
-        n.load("out/and.nn")
+        n.load("nlp/and.nn")
         n.test()
     }
 
@@ -29,13 +29,13 @@ class QaTests {
         n.output = orOutput
         n.learn()
         n.test()
-        n.save("out/or.nn")
+        n.save("nlp/or.nn")
     }
 
     @Test
     fun orLoad() {
         val n = Network()
-        n.load("out/or.nn")
+        n.load("nlp/or.nn")
         n.test()
     }
 
@@ -45,13 +45,13 @@ class QaTests {
         n.output = xorOutput
         n.learn()
         n.test()
-        n.save("out/xor.nn")
+        n.save("nlp/xor.nn")
     }
 
     @Test
     fun xorLoad() {
         val n = Network()
-        n.load("out/xor.nn")
+        n.load("nlp/xor.nn")
         n.test()
     }
 

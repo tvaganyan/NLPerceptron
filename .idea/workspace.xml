@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74bda726-7a70-4679-97a2-e63165790bbc" name="Default Changelist" comment="" />
+    <list default="true" id="74bda726-7a70-4679-97a2-e63165790bbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/and.nn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/or.nn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nlperceptron/Network.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nlperceptron/Network.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nlperceptron/Perceptron$dSigma$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nlperceptron/Perceptron$dSigma$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nlperceptron/Perceptron$sigma$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nlperceptron/Perceptron$sigma$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nlperceptron/Perceptron.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nlperceptron/Perceptron.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nlperceptron/rwObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nlperceptron/rwObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/nlperceptron/QaTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/nlperceptron/QaTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/xor.nn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nlperceptron/Network.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/nlperceptron/Network.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nlperceptron/Perceptron.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/nlperceptron/Perceptron.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nlperceptron/rwObject.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/nlperceptron/rwObject.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/nlperceptron/QaTests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/nlperceptron/QaTests.kt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +31,13 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1PefIJrGJ9Na0xtmn71UyqvnQLE" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
@@ -87,8 +110,8 @@
         <item itemvalue="JUnit.QaTests.xorLoad" />
         <item itemvalue="JUnit.QaTests.xorLearn" />
         <item itemvalue="JUnit.QaTests.orLoad" />
-        <item itemvalue="JUnit.QaTests.andLoad" />
         <item itemvalue="JUnit.QaTests.orLearn" />
+        <item itemvalue="JUnit.QaTests.andLoad" />
       </list>
     </recent_temporary>
   </component>
@@ -101,5 +124,16 @@
       <updated>1566239402264</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
